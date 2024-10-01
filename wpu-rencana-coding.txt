@@ -1,0 +1,9 @@
+RENCANA CODING WPU
+
+-HTML
+*Membuat list dengan bentuk tabel 
+*Menginput data data ke dalam list pada tabelnya
+-CSS
+-PHP
+-JavaScript
+-Laravel
