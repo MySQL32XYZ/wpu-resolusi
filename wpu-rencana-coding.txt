@@ -7,3 +7,4 @@ RENCANA CODING WPU
 -PHP
 -JavaScript
 -Laravel
+-MySQL
