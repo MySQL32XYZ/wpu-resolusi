@@ -3,7 +3,7 @@ RENCANA CODING WPU
 -HTML
 *Membuat list dengan bentuk tabel 
 *Menginput data data ke dalam list pada tabelnya
-1.Membuat Tampilan awal
+1.Merancang struktur tabel 
 -CSS
 1.Menambahkan CSS pada file tabel
 -PHP
