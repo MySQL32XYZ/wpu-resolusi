@@ -5,6 +5,7 @@ RENCANA CODING WPU
 *Menginput data data ke dalam list pada tabelnya
 1.Merancang struktur tabel 
 -CSS
+1.Menambahkan CSS pada file tabel
 -PHP
 -JavaScript
 -Laravel
